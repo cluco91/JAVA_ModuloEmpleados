@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/cluco91/JavaEE_Facturacion/blob/master/facturacion.png)
+![Image of Yaktocat](https://github.com/cluco91/JAVA_ModuloEmpleados/blob/master/Empleados.png)
 
 # Java_ModuloEmpleados
 
