@@ -2,8 +2,8 @@
 
 # Java_ModuloEmpleados
 
-Consiste en una aplicación que permite realizar operaciones CRUD con respecto a la gestión de Empleados basado en:
+- Consiste en una aplicación que permite realizar operaciones CRUD con respecto a la gestión de Empleados basado en:
 
-1. Empleados
-2. Cargos
-3. Funciones
+      1. Empleados
+      2. Cargos
+      3. Funciones
