@@ -4,6 +4,8 @@
 
 - Consiste en una aplicación que permite realizar operaciones CRUD con respecto a la gestión de Empleados basado en:
 
-      1. Empleados
-      2. Cargos
-      3. Funciones
+      1. Pacientes
+      2. Medicos
+      3. Hora Medica
+      
+- Además de Generar Reportes.
